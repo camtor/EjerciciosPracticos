@@ -1,0 +1,7 @@
+C:\Users\Camto\source\repos\EjerciciosPracticos\InvertirNumero\InvertirNumero\bin\Debug\InvertirNumero.exe.config
+C:\Users\Camto\source\repos\EjerciciosPracticos\InvertirNumero\InvertirNumero\bin\Debug\InvertirNumero.exe
+C:\Users\Camto\source\repos\EjerciciosPracticos\InvertirNumero\InvertirNumero\bin\Debug\InvertirNumero.pdb
+C:\Users\Camto\source\repos\EjerciciosPracticos\InvertirNumero\InvertirNumero\obj\Debug\InvertirNumero.csprojAssemblyReference.cache
+C:\Users\Camto\source\repos\EjerciciosPracticos\InvertirNumero\InvertirNumero\obj\Debug\InvertirNumero.csproj.CoreCompileInputs.cache
+C:\Users\Camto\source\repos\EjerciciosPracticos\InvertirNumero\InvertirNumero\obj\Debug\InvertirNumero.exe
+C:\Users\Camto\source\repos\EjerciciosPracticos\InvertirNumero\InvertirNumero\obj\Debug\InvertirNumero.pdb
