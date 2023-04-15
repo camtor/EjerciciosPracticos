@@ -1,0 +1,7 @@
+C:\Users\Camto\source\repos\OperacionesCientificas\OperacionesCientificas\bin\Debug\OperacionesCientificas.exe.config
+C:\Users\Camto\source\repos\OperacionesCientificas\OperacionesCientificas\bin\Debug\OperacionesCientificas.exe
+C:\Users\Camto\source\repos\OperacionesCientificas\OperacionesCientificas\bin\Debug\OperacionesCientificas.pdb
+C:\Users\Camto\source\repos\OperacionesCientificas\OperacionesCientificas\obj\Debug\OperacionesCientificas.csprojAssemblyReference.cache
+C:\Users\Camto\source\repos\OperacionesCientificas\OperacionesCientificas\obj\Debug\OperacionesCientificas.csproj.CoreCompileInputs.cache
+C:\Users\Camto\source\repos\OperacionesCientificas\OperacionesCientificas\obj\Debug\OperacionesCientificas.exe
+C:\Users\Camto\source\repos\OperacionesCientificas\OperacionesCientificas\obj\Debug\OperacionesCientificas.pdb
