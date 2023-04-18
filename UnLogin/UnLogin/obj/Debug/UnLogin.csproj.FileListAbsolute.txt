@@ -1,0 +1,11 @@
+C:\Users\Camto\source\repos\UnLogin\UnLogin\bin\Debug\UnLogin.exe.config
+C:\Users\Camto\source\repos\UnLogin\UnLogin\bin\Debug\UnLogin.exe
+C:\Users\Camto\source\repos\UnLogin\UnLogin\bin\Debug\UnLogin.pdb
+C:\Users\Camto\source\repos\UnLogin\UnLogin\obj\Debug\UnLogin.csprojAssemblyReference.cache
+C:\Users\Camto\source\repos\UnLogin\UnLogin\obj\Debug\UnLogin.Form1.resources
+C:\Users\Camto\source\repos\UnLogin\UnLogin\obj\Debug\UnLogin.Properties.Resources.resources
+C:\Users\Camto\source\repos\UnLogin\UnLogin\obj\Debug\UnLogin.csproj.GenerateResource.cache
+C:\Users\Camto\source\repos\UnLogin\UnLogin\obj\Debug\UnLogin.csproj.CoreCompileInputs.cache
+C:\Users\Camto\source\repos\UnLogin\UnLogin\obj\Debug\UnLogin.exe
+C:\Users\Camto\source\repos\UnLogin\UnLogin\obj\Debug\UnLogin.pdb
+C:\Users\Camto\source\repos\UnLogin\UnLogin\obj\Debug\UnLogin.Form2.resources
